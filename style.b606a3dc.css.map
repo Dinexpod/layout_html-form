@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,uBACE,oBAAqB,CACrB,mBACF,CAEA,SACE,kBACF,CAEA,mBACE,UACF","file":"style.b606a3dc.css","sourceRoot":"../src","sourcesContent":["label:not(:last-child) {\n  display: inline-block;\n  padding-bottom: 10px;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n\ninput[type=\"number\"] {\n  width: 63px;\n}\n"]}
